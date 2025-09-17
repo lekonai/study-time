@@ -1,0 +1,17 @@
+@font-face{
+    font-family: "Timeless Memories";
+    src: url("/static/fonts/timeless-memories/TimelessMemoriesRegular-2vvwo.otf") format("opentype");
+}
+@font-face{
+    font-family: "Helvetica Neue";
+    src: url("/static/fonts/helvetica-neue-5/HelveticaNeueLight.otf") format("opentype");
+}
+
+
+/* .navbar{
+
+}
+
+.navbar ul {
+
+} */
